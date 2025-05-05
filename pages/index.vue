@@ -73,8 +73,6 @@ onMounted(() => {
 
 .title {
   font-family: "Manrope", serif;
-  //position: absolute;
-  //top: 10px;
   width: 100%;
   text-align: center;
   z-index: 100;
